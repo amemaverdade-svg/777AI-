@@ -1,0 +1,9 @@
+{
+  "name": "Protocolo ZION",
+  "description": "Uma plataforma multidimensional para integração místico-científica, rituais neuro-calibrados e exploração filosófica profunda.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
